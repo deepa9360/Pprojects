@@ -5,7 +5,7 @@ export const store = configureStore({
 
     reducer:{
     
-      counter:counterslice
+      // counter:counterslice
 
     }
 
